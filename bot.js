@@ -6,7 +6,7 @@ const x_x = ".2" //هنا تحط الامر اللي يشغل الهاك
 const teext = "hacking لا تلعب معي ثاني" //هنا تحط وش تبي يكون اسم الرومات الكتابيه
 const vooice = "hacking لا تلعب معي ثاني" //هنا تحط وش تبي يكون اسم الرومات الصوتيه
 const pic = "https://cdn.discordapp.com/avatars/200644160179535872/5a245f045a43665f00f6b1a7817cc68c.png?size=2048" //هنا تحط رابط الصوره اللي بيحطها البوت بكل مكان
-const spam = "hacking لا تلعب معي ثاني" //هنا تحط وش تبي رسالة السبام
+const spam = "hacking لا تلعب معي ثاني " //هنا تحط وش تبي رسالة السبام
 const namee = "hacking لا تلعب معي ثاني" //هنا تحط وش تبي اسم السيرفر واسم البوت والبلاينق
 const playing = "Musc Bot" //هنا تحط وش تبي يكون الستريمنق
 client.on('message', message => {
